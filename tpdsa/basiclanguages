@@ -1,10 +1,10 @@
 EN =
-  	Diablos2.TableOfStringsInALanguage = { "NPC Delivery", "DELIVERY BOARD", "Welcome here! Your DELIVERY BOARD:", "YOU ARE ALREADY IN MISSION: GO DO YOUR OBJECTIVE, IDIOT!",
-	"SUMMARY OF YOUR MISSIONS:", "Successful: ", "Failure: ", "MISSIONS YOU CAN DO", "MISSIONS YOU CAN'T DO", "APPLY", "CAN'T", "You must wait for the next delivery!",
-	"Delivery point: ", "Time remaining: ", "You aren't authorize to see the delivery panel!", "You paid ", "Your destination is: ", "You win ", "Mission failed because you have taken too long time!",
-	"Bring the vehicle to the original place to finish the mission.", "This is a failure because there is no all the money!", " because you do many success!", "You are demoted because you do too failures!",
+  	Diablos2.TableOfStringsInALanguage = { "NPC Delivery", "DELIVERY BOARD", "Welcome! Your DELIVERY BOARD:", "YOU ARE ALREADY IN MISSION: CONTINUE YOUR OBJECTIVE, IDIOT!",
+	"SUMMARY OF YOUR MISSIONS:", "Successes: ", "Failures: ", "MISSIONS YOU CAN DO", "MISSIONS YOU CAN'T DO", "APPLY", "CAN'T", "You must wait for the next delivery!",
+	"Delivery point: ", "Time remaining: ", "You aren't authorize to see the delivery panel!", "You paid ", "Your destination is: ", "You win ", "Mission failed: you are too long!",
+	"Bring the vehicle to the original place to finish the mission.", "This is a failure because there is not all the money!", " because you have made many successes!", "You are demoted because you have made too many failures!",
 	"You have taken ", "There is nothing left to take!", "Somebody steals money.", "STEAL MONEY", "Steal the money of the vehicle by clicking on the button below:", "Money stealed!",
-	"DELIVERY ZONE SETUP", "Paste the following code into addons/delivery/lua/autorun/delivery_config.lua:", "Copy to clipboard" }
+	"DELIVERY ZONE SETUP", "Paste the following code into", "Copy" }
 FR =
 	Diablos2.TableOfStringsInALanguage = { "NPC Livraison", "TABLEAU DE LIVRAISON", "Salut! Voici votre TABLEAU DE LIVRAISON:", "VOUS ETES DEJA EN MISSION: FAITES VOTRE OBJECTIF, IDIOT!",
 	"RESUME DE VOS MISSIONS:", "Réussites: ", "Echecs: ", "MISSIONS QUE VOUS POUVEZ FAIRE", "MISSIONS QUE VOUS NE POUVEZ PAS FAIRE", "APPLIQUER", "IMPOSSIBLE", "Vous devez attendre pour la prochaine livraison!",
