@@ -1,17 +1,17 @@
 README
 Hi! Welcome to the GitHub language branch of Diablos. The objective is simple:
 Be proud of your language. Show me that you can translate my addons into your native language and grab a reduction for my addons that depends of your work.
-Actually, there is two addons: The Perfect Police-Officer Addon (TPPOA) and The Perfect Delivery System Addon (TPDSA) which is available for translations. To translate these addons, this is very fast. Just you need to be concentrated, and read these rules:
+Actually, there is two addons: The Perfect Police-Officer Addon (TPPOA) and The Perfect Delivery System Addon (TPDSA) which are available for translations. To translate these addons, this is very fast. Just you need to be concentrated, and read these rules:
 - Translate a language that is not already translated. Translate it entirely and for BOTH addons (translate half of these will not consider you as 'translator' and you will earn nothing).
-- See and understand order, spaces and \n. Keep the same order of strings, because they are automatically detected by the addon, and if you change it all will be confused. When there is space, this is because the text is too big or small. When there is \n, that means that there is a return to the next line (please don't use this when one of the two basic versions don't have). See the length of the text and use your logic. To begin you will have the french and english versions, use this to understand 'why there is spaces?'.
+- See and understand order, spaces and \n. When there is space, this is because the text is too big or small. When there is \n, that means that there is a return to the next line (please don't use this when one of the two basic versions don't have). See the length of the text and use your logic. To begin you will have the french and english versions, use this to understand 'why there is spaces?'.
 - Verify your work before send him. Use common words in your native language, I don't want to receive a ticket of a people who says 'The text in <ISO Code> is not correct, all strings are useless'. Know that I can revoke your key if you write few bad things willingly.
 
-When you finished to translate my addons into a language, please send me a message on Scriptfodder with the "<ISO Code> translation for the addons" title (before be a contributor on GitHub if you would like to). I will verify quickly that you don't forget strings. Know that when your language is translated, I must code to adapt him on a good design.
+When you finished to translate my addons into a language, please send me a message on Scriptfodder with the "<ISO Code> translation for the addons" title. I will verify quickly that you don't forget strings. Know that when your language is translated, I must code to adapt him on a good and professional design.
 
-If your work is good and you are serious, I will give you an unique coupon code to have my addon cheaper. The reduction depends of the work you provide. You can say that you don't want to buy my addon, or just have little dollar(s) win by translating some strings, and I will answer you now that:
+If your work is good and you are serious, I will give you an unique coupon code to have my addon(s) cheaper. The reduction depends of the work you provide. You can say that you don't want to buy my addon, or this is a pity to just have little dollar(s) win by translating some strings, and I will answer you:
 - You can do it free, all people on Steam Translation Server (as me) do it without be paid
 - There is no much translation
-- Normally content creators on Scriptfodder offers translation without give any coupon after
+- Generally content creators on Scriptfodder offers translation without give any coupon after
 
 In all cases, if you have a problem, you can send me a message on Scriptfodder. Just read below because I write translations in progress or finished (a language can be completed but not already on the addon, I will not provide one update per day):
 
