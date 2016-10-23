@@ -1,4 +1,4 @@
--- EN VERSION
+// EN VERSION
 
 Diablos.DS.Strings = { 
 	nameofnpc = "NPC Delivery",
@@ -43,7 +43,7 @@ Diablos.DS.Strings = {
 	codecopied = "The code has been copied, paste it in your configuration file!"
 }
 
--- FR VERSION
+// FR VERSION
 
 Diablos.DS.Strings = {
 	nameofnpc = "NPC Livraison",
@@ -86,4 +86,49 @@ Diablos.DS.Strings = {
 	pastecode = "Collez le code suivant dans",
 	copy = "Copier",
 	codecopied = "Le code a été copié, collez le dans votre fichier de configuration!"
+}
+
+// ES VERSION
+
+Diablos.DS.Strings = {
+	nameofnpc = "NPC Entrenga",
+	deliveryboard = "TABLA DE ENTREGA",
+	welcome = "¡Hola! Es tu TABLA DE ENTREGA:",
+	alreadyinmission = "ESTÁS EN MISIÓN : ¡HECHO TU OBJETIVO, IDIOTA!",
+	summaryofmissions = "RESUMEN DE TUS MISIONES :",
+	successes = "Logros: ",
+	failures = "Fracasos: ",
+	missionscando = "MISIONES QUE PUEDES HACER",
+	missionscantdo = "MISIONES QUE NO PUEDES HACER",
+	apply = "APLICAR",
+	cant = "IMPOSIBLE",
+	mustwait = "¡Esperando la siguiente entrega!",
+	cantdoiftoofar = "¡Usted no puede hacer una misión si usted es demasiado lejos del NPC!",
+	deliverypoint = "Punto de entrega: ",
+	timeremaining = "Tiempo restante: ",
+	notenoughplayers = "¡No hay bastantes jugadores en el servido para ver la tabla de entrega!",
+	arentauthorize = "No eres autorizado a ver la tabla de entrega!",
+	youpaid = "Pagas ",
+	yourdestinationis = "Su destino es: ",
+	youwin = "Usted gana ",
+	bringvehicleoriginalplace = "Aportar el vehículo al sitiode origen para acabar la misión.",
+	missionfailed = "¡Misión suspendido porque usted puso demasiado tiempo!",
+	failurenotallmoney = "¡Es un fracaso porque no hay todo dinero!",
+	failurenotallmoneywin = "¡Es un fracaso porque no hay todo dinero! Pero usted gana ",
+	vehicleisdestroyed = "¡Es un fracaso porque su vehículo es destruido!",
+	playerdied = "¡Es un fracaso porque moriste durante la misión!",
+	persondoesalreadymission = "Otra persona ya está haciendo la misión.",
+	manysuccesses = " ¡porque usted tuvo muchos éxitos!",
+	manyfailures = "¡Eres despedido porque usted hace demasiados fracasos!",
+	havetaken = "Usted tomó ",
+	nothingleft = "¡No hay nada más que hay que tomar!",
+	somebodystealsmoney = "¡Alguien toma dinero!",
+	stealmoney = "ROBAR DINERO",
+	stealmoneyindication = "Robar dinero del vehículo haciendo clic en el botón más abajo:",
+	moneystealed = "Dinero robó!",
+	moneystealedlog = " robó dinero del vehículo de entrega de ",
+	deliveryzonesetup = "CREATION DE UNA ZONA DE ENTREGA",
+	pastecode = "Pegue el codigo siguiente en",
+	copy = "Copiar",
+	codecopied = "¡El código ha sido copiado, esté pegado en su fichero de configuración!"
 }
