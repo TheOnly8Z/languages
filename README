@@ -3,7 +3,7 @@ Hi! Welcome to the GitHub language branch of Diablos. The objective is simple:
 Be proud of your language. Show me that you can translate my addons into your native language and grab a reduction for my addons that depends of your work.
 Actually, there is two addons: The Perfect Police-Officer Addon (TPPOA) and The Perfect Delivery System Addon (TPDSA) which are available for translations. To translate these addons, this is very fast. Just you need to be concentrated, and read these rules:
 - Translate a language that is not already translated. Translate it entirely and for BOTH addons (translate half of these will not consider you as 'translator' and you will earn nothing).
-- See and understand order, spaces and \n. When there is space, this is because the text is too big or small. When there is \n, that means that there is a return to the next line (please don't use this when one of the two basic versions don't have). See the length of the text and use your logic. To begin you will have the french and english versions, use this to understand 'why there is spaces?'.
+- See and understand order, spaces and \n. When there is space, this is because the text is too big or small (except if there is space at the begin or at the end of the string, in this case let the space!). When there is \n, that means that there is a return to the next line (please don't use this when one of the two basic versions don't have). See the length of the text and use your logic. To begin you have the EN, FR and ES versions, use this to understand 'why there is spaces?'.
 - Verify your work before send him. Use common words in your native language, I don't want to receive a ticket of a people who says 'The text in <ISO Code> is not correct, all strings are useless'. Know that I can revoke your key if you write few bad things willingly.
 
 When you finished to translate my addons into a language, please send me a message on Scriptfodder with the "<ISO Code> translation for the addons" title. I will verify quickly that you don't forget strings. Know that when your language is translated, I must code to adapt him on a good and professional design.
@@ -18,4 +18,4 @@ In all cases, if you have a problem, you can send me a message on Scriptfodder. 
 Translations:
 - English (finished)
 - French (finished)
-- ...
+- Spanish (finished)
