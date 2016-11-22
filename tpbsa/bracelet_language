@@ -44,7 +44,7 @@ Diablos.BS.Strings = {
 	hasremovedillegallylog = " has illegally broke his bracelet thanks to "
 }
   
-  // FR VERSION
+// FR VERSION
   
 Diablos.BS.Strings = {
 	copsbraceletname = "Système de bracelet policiers",
