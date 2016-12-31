@@ -1,14 +1,14 @@
 README
 Hi! Welcome to the GitHub language branch of Diablos. The objective is simple:
 Be proud of your language.  Would you like to own this addon but want it at a reduced price? Help represent your language by offering to translate my addon into your native tounge! By doing this, you not only help me but yourself as you can receive the addon at a discounted price!
-Actually, there is three addons: The Perfect Police-Officer Addon (TPPOA), The Perfect Delivery System Addon (TPDSA) and The Perfect Bracelet System Addon (TPBSA) which are available for translations. To translate these addons, this is very fast. Just you need to be concentrated, and read these rules:
-- Translate a language that is not already translated. Translate it entirely and for all addons that don't have the language.
+Actually, there is four addons: The Perfect Police-Officer Addon (TPPOA), The Perfect Delivery System Addon (TPDSA), The Perfect Bracelet System Addon (TPBSA) and The Perfect Paperboy System (TPPSA) which are available for translations. To translate these addons, this is very fast. Just you need to be concentrated, and read these rules:
+- Translate a language that is not already translated. Translate it entirely and for all addons that don't have the language if you want to have unique coupons for all addons. If you translate only one addon, you will have a little coupon code.
 - See and understand order, spaces and \n. When there is space, this is because the text is too big or small (except if there is space at the begin or at the end of the string, in this case let the space!). When there is \n, that means that there is a return to the next line (please don't use this when one of the two basic versions don't have). See the length of the text and use your logic. To begin you have the EN, FR and ES versions, use this to understand 'why there is spaces?'.
 - Verify your work before send him. Use common words in your native language, I don't want to receive a ticket of a people who says 'The text in <ISO Code> is not correct, all strings are useless'. Know that I can revoke your key if you write few bad things willingly.
 
 When you finished to translate my addons into a language, please send me a message on Scriptfodder with the "<ISO Code> translation for the addons" title. I will verify quickly that you don't forget strings. Know that when your language is translated, I must code to adapt him on a good and professional design.
 
-If your work is good and you are serious, I will give you an unique coupon code to have my addon(s) cheaper. The reduction depends of the work you provide. You can say that you don't want to buy my addon, or this is a pity to just have little dollar(s) win by translating some strings, and I will answer you:
+If your work is good and you are serious, I will give you an or some unique(s) coupon code to have my addon(s) cheaper. The reduction depends of the work you provide. You can say that you don't want to buy my addon, or this is a pity to just have little dollar(s) win by translating some strings, and I will answer you:
 - You can do it free, all people on Steam Translation Server (as me) do it without be paid
 - There is no much translation
 - Generally content creators on Scriptfodder offers translation without give any coupon after
@@ -18,4 +18,4 @@ In all cases, if you have a problem, you can send me a message on Scriptfodder. 
 Translations:
 - English (finished)
 - French (finished)
-- Spanish (finished EXCEPT on TPBSA)
+- Spanish (finished only on TPPOA and TPDSA)
