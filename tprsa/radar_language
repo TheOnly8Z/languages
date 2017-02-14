@@ -16,6 +16,7 @@ Diablos.RS.Strings = {
   save = "SAVE",
   delete = "DELETE",
   saved = "Your radar has been saved!",
+  deleted = "Your radar has been deleted!",
 }
 
 // FR VERSION
@@ -36,4 +37,5 @@ Diablos.RS.Strings = {
   save = "ENREGISTRER",
   delete = "SUPPRIMER",
   saved = "Votre radar a été sauvegardé!",
+  deleted = "Votre radar a été supprimé!",
 } 
