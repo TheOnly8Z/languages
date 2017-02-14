@@ -1,0 +1,39 @@
+// EN VERSION
+
+Diablos.RS.Strings = { 
+  speedgunname = "Speed Gun",
+  speedguninstructions = "Take the weapon and aim the vehicule to know its speed",
+  speed = "SPEED",
+  notarget = "NO TARGET",
+  found = "FOUND",
+  havebeencaught = "You have been caught at ",
+  youpaidfine = "You paid a fine of ",
+  youwin = "You win ",
+  fortakingacar = " for taking a vehicle at ",
+  radaradminpanelheaderlabel = "ADMIN RADAR CONFIGURATION",
+  speedlimit = "SPEED LIMIT:",
+  fineprice = "FINE PRICE:",
+  save = "SAVE",
+  delete = "DELETE",
+  saved = "Your radar has been saved!",
+}
+
+// FR VERSION
+
+Diablos.RS.Strings = {
+  speedgunname = "Pistolet-Radar",
+  speedguninstructions = "Prenez l'arme et visez le véhicule pour en connaître sa vitesse",
+  speed = "VITESSE",
+  notarget = "PAS DE CIBLE",
+  found = "TROUVEE",
+  havebeencaught = "Vous avez été pris à ",
+  youpaidfine = "Vous avez payé une amende de ",
+  youwin = "Vous gagnez ",
+  fortakingacar = " pour avoir pris un véhicule à ",
+  radaradminpanelheaderlabel = "CONFIGURATION ADMIN DU RADAR",
+  speedlimit = "LIMITE DE VITESSE:",
+  fineprice = "PRIX DE L'AMENDE:",
+  save = "ENREGISTRER",
+  delete = "SUPPRIMER",
+  saved = "Votre radar a été sauvegardé!",
+} 
