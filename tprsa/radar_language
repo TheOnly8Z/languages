@@ -56,4 +56,24 @@ Diablos.RS.Strings = {
   playertxt = "Spieler",
   speedtxt = "Geschwindigkeit",
   datetxt = "Datum",
- }
+}
+
+// PL VERSION
+
+Diablos.RS.Strings = {
+  speedgunname = "Radar",
+  speedguninstructions = "Wyciągnij radar i wyceluj w pojazd w ruchu, żeby sprawdzić z jaką porusza się prędkością",
+  speed = "PREDKOSC",
+  notarget = "BRAK POJAZDU",
+  found = "ZNALEZIONO",
+  governement = "KOMENDA",
+  vehicle = "POJAZD",
+  havebeencaught = "Zostales przylapany przez radar z predkoscia ",
+  youpaidfine = "Zaplaciles mandadat ",
+  youwin = "Wygrales ",
+  fortakingacar = " za prowadzenie pojazdu z predkoscia ",
+  speedrecord = "PIRACI DROGOWI (TOP 10)",
+  playertxt = "Gracz",
+  speedtxt = "Predkosc",
+  datetxt = "Data",
+}
