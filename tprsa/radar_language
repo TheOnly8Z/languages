@@ -77,3 +77,43 @@ Diablos.RS.Strings = {
   speedtxt = "Predkosc",
   datetxt = "Data",
 }
+
+// SE VERSION
+
+Diablos.RS.Strings = {
+		speedgunname = "Hastighets Pistol",
+		speedguninstructions = "Ta vapnet och sikta på en bil för att se hastigheten",
+		speed = "HASTIGHET",
+		notarget = "INGEN MÅL",
+		found = "HITTADE",
+		governement = "REGERING",
+		vehicle = "FORDOM",
+		havebeencaught = "Du har fångats på ",
+		youpaidfine = "Du betalde en böter på ",
+		youwin = "Du Vann ",
+		fortakingacar = " för att ta ett fordon på ",
+		speedrecord = "HASTIGHETS REKORD (TOP 10)",
+		playertxt = "Spelare",
+		speedtxt = "Hastighet",
+		datetxt = "Datum",
+}
+
+// CN VERSION
+
+Diablos.RS.Strings = {
+		speedgunname = "测速器",
+		speedguninstructions = "拿起测速器并瞄准载具来获取速度",
+		speed = "速度",
+		notarget = "无目标",
+		found = "已发现",
+		governement = "政府",
+		vehicle = "车辆",
+		havebeencaught = "你被抓住了 ",
+		youpaidfine = "你付了罚款,花了你",
+		youwin = "你获得了 ",
+		fortakingacar = " 因为你成功发现了一辆超速车辆 ",
+		speedrecord = "速度记录 (TOP 10)",
+		playertxt = "玩家",
+		speedtxt = "速度",
+		datetxt = "日期",
+}
