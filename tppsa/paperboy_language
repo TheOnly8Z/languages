@@ -1,6 +1,6 @@
 // EN VERSION
 
-  Diablos.PS.Strings = { 
+Diablos.PS.Strings = { 
     nameofnpc = "NPC Newspaper",
     newspaperboard = "NEWSPAPER DELIVERER BOARD",
     newspaperoffer = "NEWSPAPER OFFER",
@@ -90,7 +90,7 @@ Diablos.PS.Strings = {
 
 // DE VERSION
 
-  Diablos.PS.Strings = { 
+Diablos.PS.Strings = { 
     nameofnpc = "NPC Zeitung",
     newspaperboard = "ZEITUNGS ZUSTELLER LISTE",
     newspaperoffer = "ZEITUNGSANGEBOT",
@@ -131,4 +131,49 @@ Diablos.PS.Strings = {
     newspaperfail1 = " zeitungen (die bei ",
     newspaperfail2 = " wurden zerstört!",
     newoftheday = "NACHRICHT DES TAGES",
+}
+
+// SE VERSION
+
+Diablos.PS.Strings = { 
+    nameofnpc = "NPC NyhetsPaper",
+    newspaperboard = "NYHETSPAPER LEVERERINGS BRÄDA",
+    newspaperoffer = "NYHETSPAPER KONTOR",
+    newspaperpub = "SKRIV DIN NYHETSPAPER PUB",
+    newspaperprice = "SÄTT PRISET PER NYHETSPAPER",
+    newspaperamount = "SÄTT HUR MYCKET NYHETSPAPER ATT DISTRIBUERA",
+    newspapergiveto = "NAMN TILL EN SÄRSKILD LEVERERARE OM DET BEHÖVS",
+    nopreference = "INGEN PREFERENS",
+    buttondone = "SKICKA MITT OFFER",
+    youwillpay = "Du kommer betala ",
+    arentauthorize = "Du är inte tillåta att se NYHETSPAPERS BRÄDAN!",
+    notenoughmoney = "Du har inte tillräckligt med pengar för att föreslå denna tidning!",
+    invalidamountortext = "Du måste ha ett giltigt nyhetspaper (mindre än 170 tecken) eller ett giltigt pris / mängd (mer än 0)!",
+    propositioncreated = "Ditt förslag har skapats, du har betalat ",
+    newmissionavailable1 = "Ett nytt uppdrag som skapats av ",
+    newmissionavailable2 = " till priset av ",
+    newmissionavailable3 = " per nyhetstidning ",
+    newmissionavailable4 = " är tillgängligt",
+    newmissionavailable5 = " bara för dig!",
+    proposer = "Förslagsställaren:",
+    pricepernewspaper = "Pris per tidningen:",
+    amountofnewspapers = "Mängd nyhetspaper:",
+    totalprice = "Pengar du kan vinna:",
+    disconnectedplayer = "Frånkopplad Spelare",
+    apply = "TILLÄMPA",
+    cantdoiftoofar = "Du kan inte göra ett uppdrag om du är för långt från en NPC!!",
+    notselected = "Du måste välja en linje för att göra en åtgärd!",
+    vehicleisdestroyed = "Detta uppdrag är ett misslyckande eftersom bilen förstördes!",
+    bringvehicleoriginalplace = "Ta fordonet till den ursprungliga plats för att avsluta uppdraget.",
+    alreadyinmission = "Du är redan i ett uppdrag!",
+    distance = "Du måste ha ett visst avstånd mellan varje tidning du kasta! [ANTI ÖVERSVÄMNINGAR]",
+    youmustthrow = "Du måste kasta ",
+    newspapers = " tidningar för att vinna uppdraget",
+    pernewspaper = " per nyhetspaper",
+    youwin = "Du vann ",
+    newspaperdone1 = "Alla tidningar (de på ",
+    newspaperdone2 = " har delats ut!",
+    newspaperfail1 = " tidningar (de på ",
+    newspaperfail2 = " har förstörts!",
+    newoftheday = "NYTT FÖR DAGEN",
 }
