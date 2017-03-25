@@ -117,3 +117,23 @@ Diablos.RS.Strings = {
 		speedtxt = "速度",
 		datetxt = "日期",
 }
+
+// KR VERSION
+
+Diablos.RS.Strings = {
+	speedgunname = "과속단속 스캐너",
+	speedguninstructions = "무기를 들고 차량에 맞추면 일정속도 이상이 되면 벌금이 발행됩니다",
+	speed = "속도",
+	notarget = "타겟 없음",
+	found = "찾음",
+	governement = "정부직",
+	vehicle = "차량",
+	havebeencaught = "과속 단속 카메라에 잡혔습니다 ",
+	youpaidfine = "벌금을 지불했습니다 ",
+	youwin = "당신이 승리했습니다 ",
+	fortakingacar = " 에 차량을 촬영합니다 ",
+	speedrecord = "과속단속 리스트 (TOP 10)",
+	playertxt = "플레이어",
+	speedtxt = "속도",
+	datetxt = "날짜",
+}
