@@ -40,7 +40,7 @@ Diablos.PS.Strings = {
     newspaperdone2 = " have been distributed!",
     newspaperfail1 = " newspapers (those at ",
     newspaperfail2 = " have been destroyed!",
-    newoftheday = "NEW OF THE DAY",
+    newoftheday = "NEW OF THE DAY"
 }
 
 // FR VERSION
@@ -85,7 +85,7 @@ Diablos.PS.Strings = {
     newspaperdone2 = " ont été distribués !",
     newspaperfail1 = " journaux (ceux à ",
     newspaperfail2 = " ont été détruits!",
-    newoftheday = "NOUVELLE DU JOUR",
+    newoftheday = "NOUVELLE DU JOUR"
 }
 
 // DE VERSION
@@ -130,7 +130,7 @@ Diablos.PS.Strings = {
     newspaperdone2 = " wurden ausgetragen!",
     newspaperfail1 = " zeitungen (die bei ",
     newspaperfail2 = " wurden zerstört!",
-    newoftheday = "NACHRICHT DES TAGES",
+    newoftheday = "NACHRICHT DES TAGES"
 }
 
 // SE VERSION
@@ -175,5 +175,50 @@ Diablos.PS.Strings = {
     newspaperdone2 = " har delats ut!",
     newspaperfail1 = " tidningar (de på ",
     newspaperfail2 = " har förstörts!",
-    newoftheday = "NYTT FÖR DAGEN",
+    newoftheday = "NYTT FÖR DAGEN"
+}
+
+// NL VERSION
+
+Diablos.PS.Strings = {
+    nameofnpc = "NPC Krantenjongen",
+    newspaperboard = "KRANTENBEZORGER BEZORG SCHEMA",
+    newspaperoffer = "KRANTEN BOD",
+    newspaperpub = "TIEP JE KRANTEN UITGEVER",
+    newspaperprice = "ZET DE PRIJS PER KRANT",
+    newspaperamount = "ZET DE HOEVEELHEID KRANTEN DIE GEPUBLICEERD MOETEN WORDEN",
+    newspapergiveto = "NAAM VAN EEN SPECIFIEKE BEZORGER WANNEER NODIG",
+    nopreference = "GEEN VOORKEUR",
+    buttondone = "STUUR MIJN BOD",
+    youwillpay = "Je zal betalen ",
+    arentauthorize = "Je hebt geen toegang om naar mijn krantenbord te kijken!",
+    notenoughmoney = "Je hebt niet genoeg geld om deze krant aan te bieden!",
+    invalidamountortext = " Je moet een geldig aantal text in je krant hebben(170 karakters) of een geldige prijs hebben(meer dan 0)!",
+    propositioncreated = "Je voorstel is gemaakt en je betaald ",
+    newmissionavailable1 = "Een nieuwe missie gemaakt door ",
+    newmissionavailable2 = " voor de prijs van ",
+    newmissionavailable3 = " per krant ",
+    newmissionavailable4 = " is beschrikbaar",
+    newmissionavailable5 = " alleen voor jou!",
+    proposer = "De voorsteller:",
+    pricepernewspaper = "Prijs per krant:",
+    amountofnewspapers = "hoeveelheid kranten:",
+    totalprice = "Geld dat je kan winnen:",
+    disconnectedplayer = "Niet-Verbonden speler",
+    apply = "SOLLICITEER",
+    cantdoiftoofar = "Je kan geen missie doen als je te ver weg bent van de NPC!",
+    notselected = "Je moet een lijn selecteren om deze actie te doen!",
+    vehicleisdestroyed = "Deze missie is gefaald omdat je voertuig kapot is!",
+    bringvehicleoriginalplace = "Breng het voertuig naar de originele plek om de missie te voltooien!",
+    alreadyinmission = "Je bent al in positie!",
+    distance = "Je moet een bepaalde afstand hebben tussen elke krant die je gooit! [ANTI SPAM]",
+    youmustthrow = "Je moet ",
+    newspapers = " kranten gooien om de missie te winnen",
+    pernewspaper = " per krant",
+    youwin = "Je wint ",
+    newspaperdone1 = "Alle kranten (die bij ",
+    newspaperdone2 = " zijn gedistributeerd!",
+    newspaperfail1 = " de kranten (bij ",
+    newspaperfail2 = " zijn verwoest!",
+    newoftheday = "NIEUWTJE VAN DE DAG"
 }
