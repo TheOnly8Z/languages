@@ -1,121 +1,141 @@
 // EN VERSION
 
 Diablos.RS.Strings = { 
-  speedgunname = "Speed Gun",
-  speedguninstructions = "Take the weapon and aim the vehicule to know its speed",
-  speed = "SPEED",
-  notarget = "NO TARGET",
-  found = "FOUND",
-  governement = "GOVERNEMENT",
-  vehicle = "VEHICLE",
-  havebeencaught = "You have been caught at ",
-  youpaidfine = "You paid a fine of ",
-  youwin = "You win ",
-  fortakingacar = " for taking a vehicle at ",
-  speedrecord = "SPEED RECORDS (TOP 10)",
-  playertxt = "Player",
-  speedtxt = "Speed",
-  datetxt = "Date",
+	speedgunname = "Speed Gun",
+	speedguninstructions = "Take the weapon and aim the vehicule to know its speed",
+	speed = "SPEED",
+	notarget = "NO TARGET",
+	found = "FOUND",
+	governement = "GOVERNEMENT",
+	vehicle = "VEHICLE",
+	havebeencaught = "You have been caught at ",
+	youpaidfine = "You paid a fine of ",
+	youwin = "You win ",
+	fortakingacar = " for taking a vehicle at ",
+	speedrecord = "SPEED RECORDS (TOP 10)",
+	playertxt = "Player",
+	speedtxt = "Speed",
+	datetxt = "Date"
 }
 
 // FR VERSION
 
 Diablos.RS.Strings = {
-  speedgunname = "Pistolet-Radar",
-  speedguninstructions = "Prenez l'arme et visez le véhicule pour en connaître sa vitesse",
-  speed = "VITESSE",
-  notarget = "PAS DE CIBLE",
-  found = "TROUVEE",
-  governement = "VEHICULE DU",
-  vehicle = "GOUVERNEMENT",
-  havebeencaught = "Vous avez été pris à ",
-  youpaidfine = "Vous avez payé une amende de ",
-  youwin = "Vous gagnez ",
-  fortakingacar = " pour avoir pris un véhicule à ",
-  speedrecord = "RECORD DE VITESSE (TOP 10)",
-  playertxt = "Joueur",
-  speedtxt = "Vitesse",
-  datetxt = "Date",
+	speedgunname = "Pistolet-Radar",
+	speedguninstructions = "Prenez l'arme et visez le véhicule pour en connaître sa vitesse",
+	speed = "VITESSE",
+	notarget = "PAS DE CIBLE",
+	found = "TROUVEE",
+	governement = "VEHICULE DU",
+	vehicle = "GOUVERNEMENT",
+	havebeencaught = "Vous avez été pris à ",
+	youpaidfine = "Vous avez payé une amende de ",
+	youwin = "Vous gagnez ",
+	fortakingacar = " pour avoir pris un véhicule à ",
+	speedrecord = "RECORD DE VITESSE (TOP 10)",
+	playertxt = "Joueur",
+	speedtxt = "Vitesse",
+	datetxt = "Date"
 }
 
 // DE VERSION
 
 Diablos.RS.Strings = {
-  speedgunname = "Geschwindigkeits Radar",
-  speedguninstructions = "Richtet dein Radar auf einem Fahrzeug um dessen Geschwindigkeit zu messen.",
-  speed = "GESCHWINDIGKEIT",
-  notarget = "KEIN ZIEL ERFASST",
-  found = "ZIEL GEFUNDEN",
-  governement = "REGIERUNG",
-  vehicle = "FAHRZEUG",
-  havebeencaught = "Du wurdest erwischt bei ",
-  youpaidfine = "Du zahlst Buße von rund ",
-  youwin = "Du verdienst ",
-  fortakingacar = " für das einehmen von ",
-  speedrecord = "GESCHWINDIGKEITS REGISTER (TOP 10)",
-  playertxt = "Spieler",
-  speedtxt = "Geschwindigkeit",
-  datetxt = "Datum",
+	speedgunname = "Geschwindigkeits Radar",
+	speedguninstructions = "Richtet dein Radar auf einem Fahrzeug um dessen Geschwindigkeit zu messen.",
+	speed = "GESCHWINDIGKEIT",
+	notarget = "KEIN ZIEL ERFASST",
+	found = "ZIEL GEFUNDEN",
+	governement = "REGIERUNG",
+	vehicle = "FAHRZEUG",
+	havebeencaught = "Du wurdest erwischt bei ",
+	youpaidfine = "Du zahlst Buße von rund ",
+	youwin = "Du verdienst ",
+	fortakingacar = " für das einehmen von ",
+	speedrecord = "GESCHWINDIGKEITS REGISTER (TOP 10)",
+	playertxt = "Spieler",
+	speedtxt = "Geschwindigkeit",
+	datetxt = "Datum"
 }
 
 // PL VERSION
 
 Diablos.RS.Strings = {
-  speedgunname = "Radar",
-  speedguninstructions = "Wyciągnij radar i wyceluj w pojazd w ruchu, żeby sprawdzić z jaką porusza się prędkością",
-  speed = "PREDKOSC",
-  notarget = "BRAK POJAZDU",
-  found = "ZNALEZIONO",
-  governement = "KOMENDA",
-  vehicle = "POJAZD",
-  havebeencaught = "Zostales przylapany przez radar z predkoscia ",
-  youpaidfine = "Zaplaciles mandadat ",
-  youwin = "Wygrales ",
-  fortakingacar = " za prowadzenie pojazdu z predkoscia ",
-  speedrecord = "PIRACI DROGOWI (TOP 10)",
-  playertxt = "Gracz",
-  speedtxt = "Predkosc",
-  datetxt = "Data",
+	speedgunname = "Radar",
+	speedguninstructions = "Wyciągnij radar i wyceluj w pojazd w ruchu, żeby sprawdzić z jaką porusza się prędkością",
+	speed = "PREDKOSC",
+	notarget = "BRAK POJAZDU",
+	found = "ZNALEZIONO",
+	governement = "KOMENDA",
+	vehicle = "POJAZD",
+	havebeencaught = "Zostales przylapany przez radar z predkoscia ",
+	youpaidfine = "Zaplaciles mandadat ",
+	youwin = "Wygrales ",
+	fortakingacar = " za prowadzenie pojazdu z predkoscia ",
+	speedrecord = "PIRACI DROGOWI (TOP 10)",
+	playertxt = "Gracz",
+	speedtxt = "Predkosc",
+	datetxt = "Data"
 }
 
 // SE VERSION
 
 Diablos.RS.Strings = {
-		speedgunname = "Hastighets Pistol",
-		speedguninstructions = "Ta vapnet och sikta på en bil för att se hastigheten",
-		speed = "HASTIGHET",
-		notarget = "INGEN MÅL",
-		found = "HITTADE",
-		governement = "REGERING",
-		vehicle = "FORDOM",
-		havebeencaught = "Du har fångats på ",
-		youpaidfine = "Du betalde en böter på ",
-		youwin = "Du Vann ",
-		fortakingacar = " för att ta ett fordon på ",
-		speedrecord = "HASTIGHETS REKORD (TOP 10)",
-		playertxt = "Spelare",
-		speedtxt = "Hastighet",
-		datetxt = "Datum",
+	speedgunname = "Hastighets Pistol",
+	speedguninstructions = "Ta vapnet och sikta på en bil för att se hastigheten",
+	speed = "HASTIGHET",
+	notarget = "INGEN MÅL",
+	found = "HITTADE",
+	governement = "REGERING",
+	vehicle = "FORDOM",
+	havebeencaught = "Du har fångats på ",
+	youpaidfine = "Du betalde en böter på ",
+	youwin = "Du Vann ",
+	fortakingacar = " för att ta ett fordon på ",
+	speedrecord = "HASTIGHETS REKORD (TOP 10)",
+	playertxt = "Spelare",
+	speedtxt = "Hastighet",
+	datetxt = "Datum"
+}
+
+// NL VERSION
+
+Diablos.RS.Strings = {
+	speedgunname = "Radarpistool",
+	speedguninstructions = "Neem het wapen en mik op een voertuig om de snelheid ervan te zien",
+	speed = "SNELHEID",
+	notarget = "GEEN DOELWIT",
+	found = "GEDETECTEED",
+	governement = "OVERHEID",
+	vehicle = "VOERTUIG",
+	havebeencaught = "Je bent gedetecteerd bij ",
+	youpaidfine = "Je hebt een boete betaald van ",
+	youwin = "Jij wint ",
+	fortakingacar = " voor het nemen van een voertuig bij ",
+	speedrecord = "SNELHEID RECORDS (TOP 10)",
+	playertxt = "Speler",
+	speedtxt = "Snelheid",
+	datetxt = "Datum"
 }
 
 // CN VERSION
 
 Diablos.RS.Strings = {
-		speedgunname = "测速器",
-		speedguninstructions = "拿起测速器并瞄准载具来获取速度",
-		speed = "速度",
-		notarget = "无目标",
-		found = "已发现",
-		governement = "政府",
-		vehicle = "车辆",
-		havebeencaught = "你被抓住了 ",
-		youpaidfine = "你付了罚款,花了你",
-		youwin = "你获得了 ",
-		fortakingacar = " 因为你成功发现了一辆超速车辆 ",
-		speedrecord = "速度记录 (TOP 10)",
-		playertxt = "玩家",
-		speedtxt = "速度",
-		datetxt = "日期",
+	speedgunname = "测速器",
+	speedguninstructions = "拿起测速器并瞄准载具来获取速度",
+	speed = "速度",
+	notarget = "无目标",
+	found = "已发现",
+	governement = "政府",
+	vehicle = "车辆",
+	havebeencaught = "你被抓住了 ",
+	youpaidfine = "你付了罚款,花了你",
+	youwin = "你获得了 ",
+	fortakingacar = " 因为你成功发现了一辆超速车辆 ",
+	speedrecord = "速度记录 (TOP 10)",
+	playertxt = "玩家",
+	speedtxt = "速度",
+	datetxt = "日期"
 }
 
 // KR VERSION
@@ -135,5 +155,5 @@ Diablos.RS.Strings = {
 	speedrecord = "과속단속 리스트 (TOP 10)",
 	playertxt = "플레이어",
 	speedtxt = "속도",
-	datetxt = "날짜",
+	datetxt = "날짜"
 }
