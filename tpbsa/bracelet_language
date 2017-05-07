@@ -34,18 +34,18 @@ Diablos.BS.Strings = {
 	breakbracelet = "Breaking the bracelet...",
 	braceletbroke = "You broke the bracelet of the person in front of you!",
 	arentinagoodjob = "You aren't in a good job to do this action!",
-	braceletsystemadvert = "[Bracelet System] ",
-	brokehisbracelet = " broke his bracelet!",
-	finishedhistimebracelet = " has finished to have his bracelet!",
+	braceletsystemadvert = "[Bracelet System]",
+	brokehisbracelet = "broke his bracelet!",
+	finishedhistimebracelet = "has finished to have his bracelet!",
 	finishedyourtimebracelet = "Your bracelet has been removed because your time with it is finished!",
-	hasputbraceletlog = " has put a bracelet on ",
-	hasfinishedtimelog = " has finished the time during which he had the bracelet!",
-	hasremovedlegallylog = " has legally removed his bracelet thanks to ",
-	hasremovedillegallylog = " has illegally broke his bracelet thanks to "
+	hasputbraceletlog = "has put a bracelet on",
+	hasfinishedtimelog = "has finished the time during which he had the bracelet!",
+	hasremovedlegallylog = "has legally removed his bracelet thanks to",
+	hasremovedillegallylog = "has illegally broke his bracelet thanks to"
 }
-  
+
 // FR VERSION
-  
+
 Diablos.BS.Strings = {
 	copsbraceletname = "Système de bracelet policiers",
 	copsbraceletinstructions = "Clique gauche pour placer le bracelet, clique droit pour le retirer, recharger pour les suivre",
@@ -80,14 +80,60 @@ Diablos.BS.Strings = {
 	breakbracelet = "Destruction du bracelet...",
 	braceletbroke = "Vous avez cassé le bracelet de la personne devant vous !",
 	arentinagoodjob = "Vous n'êtes pas dans un bon métier pour réaliser cette action !",
-	braceletsystemadvert = "[Système de bracelet] ",
-	brokehisbracelet = " a cassé son bracelet !",
-	finishedhistimebracelet = " a fini d'avoir son bracelet !",
+	braceletsystemadvert = "[Système de bracelet]",
+	brokehisbracelet = "a cassé son bracelet !",
+	finishedhistimebracelet = "a fini d'avoir son bracelet !",
 	finishedyourtimebracelet = "Votre bracelet a été enlevé car votre temps avec est terminé !",
-	hasputbraceletlog = " a mis un bracelet sur ",
-	hasfinishedtimelog = " a terminé le temps durant lequel il avait le bracelet !",
-	hasremovedlegallylog = " a légalement enlevé son bracelet grâce à ",
-	hasremovedillegallylog = " a illégalement cassé son bracelet grâce à "
+	hasputbraceletlog = "a mis un bracelet sur",
+	hasfinishedtimelog = "a terminé le temps durant lequel il avait le bracelet !",
+	hasremovedlegallylog = "a légalement enlevé son bracelet grâce à",
+	hasremovedillegallylog = "a illégalement cassé son bracelet grâce à"
+}
+
+// ES VERSION
+
+Diablos.BS.Strings = {
+	copsbraceletname = "Sistema de pulsera policiacas",
+	copsbraceletinstructions = "Camarilla izquierda para colocar la pulsera, hacer clic derecho para retirarlo, recargar para seguirlos",
+	alreadythebracelet = "¡ Esta persona ya tiene una pulsera !",
+	nobracelet = "¡ Esta persona no tiene pulsera !",
+	seepersonforbracelet = "¡ Usted debe mirar a una persona próxima de usted para poner/quitar una pulsera !",
+	braceletput = "¡ Usted le puso la pulsera a la persona delante de usted !",
+	braceletremoved = "¡ La pulsera ha sido quitada !",
+	putframeheaderlabel = "PONER UNA PULSERA",
+	putframeinstructions = "Escoja el tiempo (en minutos) donde tendrá la pulsera y confirme :",
+	putframetime = "Tiempo :",
+	putframeconfirmation = "CONFIRMAR",
+	nobodyhasbracelet = "¡ Nadie tiene pulsera sobre el servidor !",
+	trackframeheaderlabel = "SEGUIMIENTO DE PULSERA",
+	trackframegetpos = "OBTENER POSICIÓN",
+	trackframeungetpos = "LLEVARSE POSICIÓN",
+	trackframeelectrify = "ELECTRIZAR",
+	trackframename = "Nombre :",
+	trackframetime = "Tiempo :",
+	trackframedisconnect = "Pulsera desconectada :",
+	trackframeyes = "Si",
+	trackframeno = "No",
+	notselected = "¡ Usted debe hacer clic en una línea encima para efectuar una acción !",
+	toofartoelectrify = "¡ Usted es demasiado lejos de la persona para electrizarlo !",
+	cantelectrifybreak = "¡ Usted no puede electrizar a la persona porque su pulsera ha sido rota !",
+	wereelectrified = "¡ Has sido electrizado !",
+	timeofbracelet = "Tiempo de la pulsera",
+	lastplacefound = "Último lugar encontrado",
+	breakbraceletname = "Rompedor de pulsera",
+	breakbraceletinstructions = "Haga camarilla izquierda o derecho para romper la pulsera de una persona",
+	hedoesnthavebracelet = "¡ La persona a la que usted mira no tiene pulsera o lo rompió !",
+	breakbracelet = "Destrucción de la pulsera...",
+	braceletbroke = "¡ Usted rompió la pulsera de la persona delante de usted !",
+	arentinagoodjob = "¡ Usted no está en un buen oficio para realizar esta acción !",
+	braceletsystemadvert = "[Sistema de pulsera]",
+	brokehisbracelet = "rompió su pulsera !",
+	finishedhistimebracelet = "acabó de tener su pulsera !",
+	finishedyourtimebracelet = "¡ Su pulsera se ha sido llevada porque su tiempo con se acaba !",
+	hasputbraceletlog = "puso una pulsera sobre",
+	hasfinishedtimelog = "acabó el tiempo durante el cual él tenía la pulsera !",
+	hasremovedlegallylog = "legalmente se llevó su pulsera gracias a",
+	hasremovedillegallylog = "ilegalmente rompió su pulsera gracias a"
 }
 
 // DE VERSION
@@ -126,14 +172,14 @@ Diablos.BS.Strings = {
 	breakbracelet = "Band wird zerstört...",
 	braceletbroke = "Du hast das Band der Person vor dir zerstört!",
 	arentinagoodjob = "Du hast den flaschen Job um diese Aktion durch zu führen!",
-	braceletsystemadvert = "[Band System] ",
-	brokehisbracelet = " zerbrach sein Band!",
-	finishedhistimebracelet = " hat beendet, sein Band zu haben!",
+	braceletsystemadvert = "[Band System]",
+	brokehisbracelet = "zerbrach sein Band!",
+	finishedhistimebracelet = "hat beendet, sein Band zu haben!",
 	finishedyourtimebracelet = "Dein Band wurde entfernt, weil deine Zeit abgelaufen ist!",
-	hasputbraceletlog = " hat ein Band gelegt um ",
-	hasfinishedtimelog = " hat seine Zeit vollendet, die er mit einem Band verbringen musste!",
-	hasremovedlegallylog = " hat legal sein Band entfernt dank ",
-	hasremovedillegallylog = " hat illegal sein Band entfernt dank "
+	hasputbraceletlog = "hat ein Band gelegt um",
+	hasfinishedtimelog = "hat seine Zeit vollendet, die er mit einem Band verbringen musste!",
+	hasremovedlegallylog = "hat legal sein Band entfernt dank",
+	hasremovedillegallylog = "hat illegal sein Band entfernt dank"
 }
 
 // PL VERSION
@@ -172,21 +218,21 @@ Diablos.BS.Strings = {
 	breakbracelet = "Zdejmowanie bransolety...",
 	braceletbroke = "Zdjąłeś bransoletę osoby przed tobą!",
 	arentinagoodjob = "Nie masz odpowiedniej pracy, aby wykonać tą akcję!",
-	braceletsystemadvert = "[System Bransolet] ",
-	brokehisbracelet = " zniszczył swoją bransoletę!",
-	finishedhistimebracelet = " ukończył czas noszenia bransolety!",
+	braceletsystemadvert = "[System Bransolet]",
+	brokehisbracelet = "zniszczył swoją bransoletę!",
+	finishedhistimebracelet = "ukończył czas noszenia bransolety!",
 	finishedyourtimebracelet = "Twoja bransoleta została usunięta, ponieważ skończył się czas!",
-	hasputbraceletlog = " założył bransoletę na ",
-	hasfinishedtimelog = " ukończył czas noszenia bransolety!",
-	hasremovedlegallylog = " legalnie usunął bransoletę dzięki ",
-	hasremovedillegallylog = " nielegalnie usunął bransoletę dzięki "
+	hasputbraceletlog = "założył bransoletę na",
+	hasfinishedtimelog = "ukończył czas noszenia bransolety!",
+	hasremovedlegallylog = "legalnie usunął bransoletę dzięki",
+	hasremovedillegallylog = "nielegalnie usunął bransoletę dzięki"
 }
 
 // SE VERSION
 
 Diablos.BS.Strings = {
 	copsbraceletname = "Polis Armbands System",
-	copsbraceletinstructions = "Vänsterklicka för att placera ett armband, högerklicka för att ta bort en, och ladda om för att spåra dem ",
+	copsbraceletinstructions = "Vänsterklicka för att placera ett armband, högerklicka för att ta bort en, och ladda om för att spåra dem",
 	alreadythebracelet = "Den här personen har redan ett armband!",
 	nobracelet = "Den här personer har inget armband!",
 	seepersonforbracelet = "Du måste se en person nära dig för att ta på/ta bort ett armband!",
@@ -218,14 +264,14 @@ Diablos.BS.Strings = {
 	breakbracelet = "Förstör Armbandet...",
 	braceletbroke = "Du bröt armbandet på den person framför dig!!",
 	arentinagoodjob = "Du är inte i ett bra jobb att göra denna åtgärd!",
-	braceletsystemadvert = "[Armbands System] ",
-	brokehisbracelet = " förstörde hans armband!",
-	finishedhistimebracelet = " är klar att få sitt armband!",
+	braceletsystemadvert = "[Armbands System]",
+	brokehisbracelet = "förstörde hans armband!",
+	finishedhistimebracelet = "är klar att få sitt armband!",
 	finishedyourtimebracelet = "Ditt armband har tagits bort eftersom din tid med den är klar!",
-	hasputbraceletlog = " har satt på ett armband på ",
-	hasfinishedtimelog = " har blivit klar med tiden där han hade armbandet!",
-	hasremovedlegallylog = " har lagligt tagit bort hans armed med hjälp av ",
-	hasremovedillegallylog = " har olagligt förstört hans armband med hjälp av "
+	hasputbraceletlog = "har satt på ett armband på",
+	hasfinishedtimelog = "har blivit klar med tiden där han hade armbandet!",
+	hasremovedlegallylog = "har lagligt tagit bort hans armed med hjälp av",
+	hasremovedillegallylog = "har olagligt förstört hans armband med hjälp av"
 }
 
 // NL VERSION
@@ -264,12 +310,12 @@ Diablos.BS.Strings = {
 	breakbracelet = "Slopen van enkelband...",
 	braceletbroke = "Je hebt de engekband van de persoon voor je gesloopt!!",
 	arentinagoodjob = "Je hebt niet de goede baan om dit te slopen!",
-	braceletsystemadvert = "[Enkelband Systeem] ",
-	brokehisbracelet = " sloopte zijn/haar enkelband!",
-	finishedhistimebracelet = " z'n tijd zit erop om de enkelband te dragen!",
+	braceletsystemadvert = "[Enkelband Systeem]",
+	brokehisbracelet = "sloopte zijn/haar enkelband!",
+	finishedhistimebracelet = "z'n tijd zit erop om de enkelband te dragen!",
 	finishedyourtimebracelet = "Je enkelband is verwijderd omdat de tijd verlopen is!",
-	hasputbraceletlog = " heeft een enkelband omgedaan op ",
-	hasfinishedtimelog = " zijn/haar tijd zit erop om de enkelband te dragen",
-	hasremovedlegallylog = " heeft legaal zijn/haar enkelband verwijderd dankzij ",
-	hasremovedillegallylog = " heeft illigaal zijn/haar enkelband verwijderd dankzij "
+	hasputbraceletlog = "heeft een enkelband omgedaan op",
+	hasfinishedtimelog = "zijn/haar tijd zit erop om de enkelband te dragen",
+	hasremovedlegallylog = "heeft legaal zijn/haar enkelband verwijderd dankzij",
+	hasremovedillegallylog = "heeft illigaal zijn/haar enkelband verwijderd dankzij"
 }
