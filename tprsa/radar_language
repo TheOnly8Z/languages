@@ -8,14 +8,15 @@ Diablos.RS.Strings = {
 	found = "FOUND",
 	governement = "GOVERNEMENT",
 	vehicle = "VEHICLE",
-	havebeencaught = "You have been caught at ",
-	youpaidfine = "You paid a fine of ",
-	youwin = "You win ",
-	fortakingacar = " for taking a vehicle at ",
+	havebeencaught = "You have been caught at",
+	youpaidfine = "You paid a fine of",
+	youwin = "You win",
+	fortakingacar = "for taking a vehicle at",
 	speedrecord = "SPEED RECORDS (TOP 10)",
 	playertxt = "Player",
 	speedtxt = "Speed",
-	datetxt = "Date"
+	datetxt = "Date",
+	speedradar = "Speed of your speedgun:"
 }
 
 // FR VERSION
@@ -28,14 +29,36 @@ Diablos.RS.Strings = {
 	found = "TROUVEE",
 	governement = "VEHICULE DU",
 	vehicle = "GOUVERNEMENT",
-	havebeencaught = "Vous avez été pris à ",
-	youpaidfine = "Vous avez payé une amende de ",
-	youwin = "Vous gagnez ",
-	fortakingacar = " pour avoir pris un véhicule à ",
+	havebeencaught = "Vous avez été pris à",
+	youpaidfine = "Vous avez payé une amende de",
+	youwin = "Vous gagnez",
+	fortakingacar = "pour avoir pris un véhicule à",
 	speedrecord = "RECORD DE VITESSE (TOP 10)",
 	playertxt = "Joueur",
 	speedtxt = "Vitesse",
-	datetxt = "Date"
+	datetxt = "Date",
+	speedradar = "Vitesse de votre radar:"
+}
+
+// ES VERSION
+
+Diablos.RS.Strings = {
+	speedgunname = "Pistola-radar",
+	speedguninstructions = "Tome el arma y refiérase al vehículo para conocer su velocidad",
+	speed = "VELOCIDAD",
+	notarget = "NO OBJECTIVO",
+	found = "ENCONTRADA",
+	governement = "VEHICULO DE",
+	vehicle = "GOBIERNO",
+	havebeencaught = "Usted ha sido tomado a",
+	youpaidfine = "Usted pagó una multa de",
+	youwin = "Usted gana",
+	fortakingacar = "para haber tomado un vehículo a",
+	speedrecord = "RÉCORD DE VELOCIDAD (TOP 10)",
+	playertxt = "Jugador",
+	speedtxt = "Velocidad",
+	datetxt = "Fecha",
+	speedradar = "Velocidad de tu radar:"
 }
 
 // DE VERSION
@@ -48,14 +71,15 @@ Diablos.RS.Strings = {
 	found = "ZIEL GEFUNDEN",
 	governement = "REGIERUNG",
 	vehicle = "FAHRZEUG",
-	havebeencaught = "Du wurdest erwischt bei ",
-	youpaidfine = "Du zahlst Buße von rund ",
-	youwin = "Du verdienst ",
-	fortakingacar = " für das einehmen von ",
+	havebeencaught = "Du wurdest erwischt bei",
+	youpaidfine = "Du zahlst Buße von rund",
+	youwin = "Du verdienst",
+	fortakingacar = "für das einehmen von",
 	speedrecord = "GESCHWINDIGKEITS REGISTER (TOP 10)",
 	playertxt = "Spieler",
 	speedtxt = "Geschwindigkeit",
-	datetxt = "Datum"
+	datetxt = "Datum",
+	speedradar = "Geschwindigkeit Ihres Radar:"
 }
 
 // PL VERSION
@@ -68,14 +92,15 @@ Diablos.RS.Strings = {
 	found = "ZNALEZIONO",
 	governement = "KOMENDA",
 	vehicle = "POJAZD",
-	havebeencaught = "Zostales przylapany przez radar z predkoscia ",
-	youpaidfine = "Zaplaciles mandadat ",
-	youwin = "Wygrales ",
-	fortakingacar = " za prowadzenie pojazdu z predkoscia ",
+	havebeencaught = "Zostales przylapany przez radar z predkoscia",
+	youpaidfine = "Zaplaciles mandadat",
+	youwin = "Wygrales",
+	fortakingacar = "za prowadzenie pojazdu z predkoscia",
 	speedrecord = "PIRACI DROGOWI (TOP 10)",
 	playertxt = "Gracz",
 	speedtxt = "Predkosc",
-	datetxt = "Data"
+	datetxt = "Data",
+	speedradar = "Predkosc Radar:"
 }
 
 // SE VERSION
@@ -88,18 +113,19 @@ Diablos.RS.Strings = {
 	found = "HITTADE",
 	governement = "REGERING",
 	vehicle = "FORDOM",
-	havebeencaught = "Du har fångats på ",
-	youpaidfine = "Du betalde en böter på ",
-	youwin = "Du Vann ",
-	fortakingacar = " för att ta ett fordon på ",
+	havebeencaught = "Du har fångats på",
+	youpaidfine = "Du betalde en böter på",
+	youwin = "Du Vann",
+	fortakingacar = "för att ta ett fordon på",
 	speedrecord = "HASTIGHETS REKORD (TOP 10)",
 	playertxt = "Spelare",
 	speedtxt = "Hastighet",
-	datetxt = "Datum"
+	datetxt = "Datum",
+	speedradar = "Hastighet Radar:"
 }
 
 // NL VERSION
-
+	
 Diablos.RS.Strings = {
 	speedgunname = "Radarpistool",
 	speedguninstructions = "Neem het wapen en mik op een voertuig om de snelheid ervan te zien",
@@ -108,14 +134,15 @@ Diablos.RS.Strings = {
 	found = "GEDETECTEED",
 	governement = "OVERHEID",
 	vehicle = "VOERTUIG",
-	havebeencaught = "Je bent gedetecteerd bij ",
-	youpaidfine = "Je hebt een boete betaald van ",
-	youwin = "Jij wint ",
-	fortakingacar = " voor het nemen van een voertuig bij ",
+	havebeencaught = "Je bent gedetecteerd bij",
+	youpaidfine = "Je hebt een boete betaald van",
+	youwin = "Jij wint",
+	fortakingacar = "voor het nemen van een voertuig bij",
 	speedrecord = "SNELHEID RECORDS (TOP 10)",
 	playertxt = "Speler",
 	speedtxt = "Snelheid",
-	datetxt = "Datum"
+	datetxt = "Datum",
+	speedradar = "Snelheid Radar:"
 }
 
 // CN VERSION
@@ -128,14 +155,15 @@ Diablos.RS.Strings = {
 	found = "已发现",
 	governement = "政府",
 	vehicle = "车辆",
-	havebeencaught = "你被抓住了 ",
+	havebeencaught = "你被抓住了",
 	youpaidfine = "你付了罚款,花了你",
-	youwin = "你获得了 ",
-	fortakingacar = " 因为你成功发现了一辆超速车辆 ",
+	youwin = "你获得了",
+	fortakingacar = "因为你成功发现了一辆超速车辆",
 	speedrecord = "速度记录 (TOP 10)",
 	playertxt = "玩家",
 	speedtxt = "速度",
-	datetxt = "日期"
+	datetxt = "日期",
+	speedradar = "速度 测速器:"
 }
 
 // KR VERSION
@@ -148,12 +176,13 @@ Diablos.RS.Strings = {
 	found = "찾음",
 	governement = "정부직",
 	vehicle = "차량",
-	havebeencaught = "과속 단속 카메라에 잡혔습니다 ",
-	youpaidfine = "벌금을 지불했습니다 ",
-	youwin = "당신이 승리했습니다 ",
-	fortakingacar = " 에 차량을 촬영합니다 ",
+	havebeencaught = "과속 단속 카메라에 잡혔습니다",
+	youpaidfine = "벌금을 지불했습니다",
+	youwin = "당신이 승리했습니다",
+	fortakingacar = "에 차량을 촬영합니다",
 	speedrecord = "과속단속 리스트 (TOP 10)",
 	playertxt = "플레이어",
 	speedtxt = "속도",
-	datetxt = "날짜"
+	datetxt = "날짜",
+	speedradar = "속도 과속단속 스캐너:"
 }
