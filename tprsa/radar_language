@@ -145,6 +145,26 @@ Diablos.RS.Strings = {
 	speedradar = "Snelheid Radar:"
 }
 
+// DK VERSION
+
+Diablos.RS.Strings = {
+	speedgunname = "Fartmåler",
+	speedguninstructions = "Tag våbnet og peg på et køretøj for at måle dens fart.",
+	speed = "Fart",
+	notarget = "INTET MÅL",
+	found = "FUNDET",
+	governement = "OFFENTLIGT",
+	vehicle = "BIL",
+	havebeencaught = "Du er blevet målt til at kører",
+	youpaidfine = "Du betalte en bøde på",
+	youwin = "Du vandt",
+	fortakingacar = "for at måle et køretøj til:",
+	speedrecord = "HASTIGHEDS REKORT (TOP 10)",
+	playertxt = "Spiller",
+	speedtxt = "Hastighed",
+	datetxt = "Dato"
+}
+
 // CN VERSION
 
 Diablos.RS.Strings = {
