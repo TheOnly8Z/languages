@@ -206,3 +206,24 @@ Diablos.RS.Strings = {
 	datetxt = "날짜",
 	speedradar = "속도 과속단속 스캐너:"
 }
+
+// ARB VERSION
+
+Diablos.RS.Strings = {
+	speedgunname = "بندقية الرادار",
+	speedguninstructions = "خذ السلاح واستهداف سيارة لتحديد سرعته",
+	speed = "سرعة",
+	notarget = "لا هدف",
+	found = "اكتشاف",
+	governement = "مركبة",
+	vehicle = "حكومة",
+	havebeencaught = "لقد تم القبض",
+	youpaidfine = "عليك دفع غرامة قدرها",
+	youwin = "يمكنك الفوز",
+	fortakingacar = "لأخذ سيارة",
+	speedrecord = "سرعة قياسية (TOP 10)",
+	playertxt = "لاعب",
+	speedtxt = "سرعة",
+	datetxt = "تاريخ",
+	speedradar = "سرعة الرادار الخاص بك"
+}
