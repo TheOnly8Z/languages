@@ -165,6 +165,48 @@ Diablos.RS.Strings = {
 	datetxt = "Dato"
 }
 
+// RU VERSION
+
+Diablos.RS.Strings = {
+	speedgunname = "Скоростной радар",
+	speedguninstructions = "Возьмите оружие и прицелите его на автомобиль, чтобы узнать его скорость",
+	speed = "СКОРОСТЬ",
+	notarget = "НЕТ ЦЕЛИ",
+	found = "НАЙДЕНО",
+	governement = "ПРАВИТЕЛЬСТВО",
+	vehicle = "ТРАНСПОРТ",
+	havebeencaught = "Вас поймали",
+	youpaidfine = "Вы заплатили штраф",
+	youwin = "Вы победили",
+	fortakingacar = "для взятия транспорта на",
+	speedrecord = "СКОРОСТНОЙ РЕКОРД (ТОП 10)",
+	playertxt = "Игрок",
+	speedtxt = "Скорость",
+	datetxt = "Дата",
+	speedradar = "Скорость вашего радара:"
+}
+
+// UA VERSION
+
+Diablos.RS.Strings = {
+	speedgunname = "Швидкісний радар",
+	speedguninstructions = "Візьміть зброю і направте його на автомобіль, щоб дізнатися його швидкість",
+	speed = "ШВИДКІСТЬ",
+	notarget = "НЕМАЄ ЦІЛІ",
+	found = "ЗНАЙДЕНО",
+	governement = "УРЯД",
+	vehicle = "ТРАНСПОРТ",
+	havebeencaught = "Вас зловили",
+	youpaidfine = "Ви сплатили штраф",
+	youwin = "Ви виграли",
+	fortakingacar = "для взяття транспорту на",
+	speedrecord = "ШВИДКІСНИЙ РЕКОРД (ТОП 10)",
+	playertxt = "Гравець",
+	speedtxt = "Швидкість",
+	datetxt = "Дата",
+	speedradar = "Швидкість вашого радара:"
+}
+
 // CN VERSION
 
 Diablos.RS.Strings = {
