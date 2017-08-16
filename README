@@ -1,10 +1,9 @@
-README
 Hi! Welcome to the GitHub language branch of Diablos. The objective is simple:
-Be proud of your language.  Would you like to own this addon but want it at a reduced price? Help represent your language by offering to translate my addon into your native tounge! By doing this, you not only help me but yourself as you can receive the addon at a discounted price!
-Actually, all my addons are available for translations. To translate these addons, this is very fast. Just you need to be concentrated, and read these rules:
-- Translate a language that is not already translated. Translate it entirely and for all addons (you can) that don't have the language if you want to have a more percent of sale in your coupon(s) code. If you translate only one addon, you will have a little percent of sale in your coupon code.
-- See and understand order, spaces and \n. When there is space, this is because the text is too big or small (except if there is space at the begin or at the end of the string, in this case let the space!). When there is \n, that means that there is a return to the next line (please don't use this when one of the two basic versions don't have it). See the length of the text and use your logic. In all scripts there is the English and French languages available, use this to understand 'why there is spaces?'.
-- Verify your work before send him. Use common words in your native language, I don't want to receive a ticket of a people who says 'The text in <ISO Code> is not correct, all strings are useless'. Know that I can revoke your key if you write few bad things willingly.
+Be proud of your language.  Would you like to own one of my addon but you want it at a reduced price? Help represent your language by offering to translate my addon into your native tounge! By doing this, you not only help me but yourself as you can receive the addon at a discounted price!
+Actually, all my addons are available for translations. To translate these addons, it's very fast. You only need to be concentrated for a little time. Firstly, read these rules:
+- You should translate a language which is not already translated. Translate it entirely and for all addons (you can) which don't have the language if you want to have a more percent of sale in your coupon(s) code. If you translate only one addon, you will have a little percent of sale because there is less work...
+- See and understand how I did the sentence in english with the "!", "." or with "\n". When there is a point, put it. When there is \n, that means that there is a return to the next line: if the english version doesn't have a "\n" then don't use it.
+- Verify your work before send him. Use common words in your native language because I don't want to receive a ticket of someone who says 'The text in <ISO Code> is not correct, all strings are useless'. Know that I can revoke your key if you write few bad things willingly.
 
 When you finished to translate my addons into a language, please send me a message on GModStore with the "<ISO Code> translation for the addons" title. I will verify quickly that you don't forget strings. Know that when your language is translated, I must code to adapt him on a good and professional design. Also, I want to be serious with you: we are in August 2017 here when I wrote this & my scripts are available and adapted for several languages (the radar script has 13 languages!). I am very happy to see that but to be honest sometimes, due to the size of a label I remove the words that I consider unnecessary (by helping me with some translate systems). Normally it should be really understandable but for languages like Russian/Ukrainian/Arabic, I am forced to do something because the labels are too big.
 
@@ -14,7 +13,7 @@ If your work is good and you are serious, I will give you an or some unique(s) c
 - Generally content creators offers translation without give any coupon after.
 
 
-Before trying to translate my scripts, read below because I write the translations already did:
+Before trying to translate my scripts, read below because I wrote the translations already did:
 
 Translations:
 - English (finished)
