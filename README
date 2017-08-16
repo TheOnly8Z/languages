@@ -6,20 +6,23 @@ Actually, all my addons are available for translations. To translate these addon
 - See and understand order, spaces and \n. When there is space, this is because the text is too big or small (except if there is space at the begin or at the end of the string, in this case let the space!). When there is \n, that means that there is a return to the next line (please don't use this when one of the two basic versions don't have it). See the length of the text and use your logic. In all scripts there is the English and French languages available, use this to understand 'why there is spaces?'.
 - Verify your work before send him. Use common words in your native language, I don't want to receive a ticket of a people who says 'The text in <ISO Code> is not correct, all strings are useless'. Know that I can revoke your key if you write few bad things willingly.
 
-When you finished to translate my addons into a language, please send me a message on Scriptfodder with the "<ISO Code> translation for the addons" title. I will verify quickly that you don't forget strings. Know that when your language is translated, I must code to adapt him on a good and professional design.
+When you finished to translate my addons into a language, please send me a message on GModStore with the "<ISO Code> translation for the addons" title. I will verify quickly that you don't forget strings. Know that when your language is translated, I must code to adapt him on a good and professional design. Also, I want to be serious with you: we are in August 2017 here when I wrote this & my scripts are available and adapted for several languages (the radar script has 13 languages!). I am very happy to see that but to be honest sometimes, due to the size of a label I remove the words that I consider unnecessary (by helping me with some translate systems). Normally it should be really understandable but for languages like Russian/Ukrainian/Arabic, I am forced to do something because the labels are too big.
 
 If your work is good and you are serious, I will give you an or some unique(s) coupon code to have my addon(s) cheaper. The reduction depends of the work you provide. You can say that you don't want to buy my addon, or this is a pity to just have little dollar(s) win by translating some strings, and I will answer you:
-- You can do it free, all people on Steam Translation Server (as me) do it without be paid
-- There is no much translation
-- Generally content creators offers translation without give any coupon after
+- You can do it for free, everybody who is subscribed on the Steam Translation Server (as me) translate a service without being paid.
+- It's not so much translation.
+- Generally content creators offers translation without give any coupon after.
 
-In all cases, if you have a problem, you can send me a message on Scriptfodder. Just read below because I write translations in progress or finished:
+
+Before trying to translate my scripts, read below because I write the translations already did:
 
 Translations:
-- **English** (finished)
+- English (finished)
 - French (finished)
 - Spanish (finished)
 - German (finished)
+- Russian (finished)
+- Ukrainian (finished)
 - Swedish (finished except on TPCSA)
 - Danish (only on TPRSA)
 - Chinese (only on TPRSA)
