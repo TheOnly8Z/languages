@@ -375,3 +375,45 @@ Diablos.DS.Strings = {
 	moneystolen = "Гроші вкрадені!",
 	moneystolenlog = "вкрасти гроші у машини доставки гравця"
 }
+
+// CN Simplified version
+
+Diablos.DS.Strings = { 
+	nameofnpc = "NPC 快递",
+	deliveryboard = "快递任务板",
+	welcome = "欢迎! 你的快递任务板:",
+	alreadyinmission = "你已经有任务了: 请先完成现有任务!",
+	summaryofmissions = "任务概览:",
+	successes = "成功任务:",
+	failures = "失败任务:",
+	missionname = "任务名称",
+	moneytoearn = "现金奖励",
+	time = "时间",
+	apply = "接受",
+	mustwait = "你必须等待下一次配送!",
+	cantdoiftoofar = "你离NPC太远了，不能接受任务!",
+	notenoughmoney = "你的现金不足，不能接受任务!",
+	deliverypoint ="配送位置:",
+	timeremaining = "剩余时间:",
+	notenoughplayers = "服务器内玩家不够，不能使用任务版!",
+	arentauthorize = "你没有权限使用任务版!",
+	youpaid = "你支付了",
+	yourdestinationis ="你的目的地:",
+	youwin = "你成功了",
+	bringvehicleoriginalplace = "将车辆放回原位来完成任务。",
+	missionfailed = "任务失败，因为花费时间太长。",
+	failurenotallmoney = "任务失败，因为你丢失了现金。",
+	failurenotallmoneywin = "任务成功，但你丢失了现金。",
+	vehicleisdestroyed = "任务失败，因为车辆被摧毁。",
+	playerdied = "任务失败，因为你在任务中死了。",
+	persondoesalreadymission = "已经有人接受这个任务了。",
+	manysuccesses = "因为你成功足够多次了。",
+	manyfailures = "你因为失败太多次而被贬职了！",
+	havetaken = "你拿走了",
+	nothingleft = "没有剩余的东西可以拿走。",
+	somebodystealsmoney = "有人在偷钱！",
+	stealmoney = "偷窃现金", 
+	stealmoneyindication = "使用以下按钮来从车中偷窃现金。",
+	moneystolen = "现金到手！",
+	moneystolenlog = "偷了卡车内的现金，车主是"
+}
